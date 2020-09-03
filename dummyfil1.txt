@@ -1,4 +1,15 @@
 One Piece er den bedste anime nogen sinde
 Og Inital D can suck a straw
-Initial D er ikke epic
 YES YES YES YES!
+
+Initial D er slet ikke epic
+ikke engang tæt på
+YES YES YES YES!
+
+
+import math()
+
+int.cat = [1,2,3]
+
+for i in int.cat:
+print(i*2);
